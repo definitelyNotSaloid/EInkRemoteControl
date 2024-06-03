@@ -1,0 +1,13 @@
+#ignore debug imagess, MicroPyrhon binaries, PyCharm's stuff and unused files
+*.png 
+*.jpg
+*.jpeg
+esptool-master 
+espPython.bin
+ESP32_PY.bin
+.idea
+debug_main.py
+epd2in9d.py
+epd7in5b_V2.py
+serv.py
+st7735.py
